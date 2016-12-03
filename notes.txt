@@ -1,0 +1,9 @@
+Ran with
+
+./match_pep.py --proteins protein_library.txt --peptides bioactive_peptides.txt --pident_threshold 80 > 80_thres_similar_out.txt
+
+see ./match_pep.py for help/options
+
+On Windows cmd prompt: 
+
+C:\Python27\python.exe match_pep.py --proteins protein_library.txt --peptides bioactive_peptides.txt --pident_threshold 80 > 80_thres_similar_out.txt
