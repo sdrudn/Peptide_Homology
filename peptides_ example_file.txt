@@ -1,0 +1,8 @@
+Alpha Hemoglobin	KLLSHSL	ACE-inhibitory	Bovine
+Alpha s1-casein	RPKHPIKHQ	ACE-inhibitory	Bovine
+Alpha s1-casein	PKHP	ACE-inhibitory	Bovine
+Alpha s1-casein	LNENLLRFFVAPFPEVFG	ACE-inhibitory	Bovine
+Alpha s1-casein	NENLLRFFVAPFPEVFG	ACE-inhibitory	Bovine
+Alpha s1-casein	ENLLRFFVAPFPEVFG	ACE-inhibitory	Bovine
+Alpha s1-casein	LRFF	ACE-inhibitory	Bovine
+Alpha s1-casein	FFVAP	ACE-inhibitory	Bovine
